@@ -3,29 +3,68 @@
   Gold3nMoon
 </h1>
 
-## Programador Júnior | Desenvolvedor Front-end
+<p align="center">
+  <em>Programador Júnior | Desenvolvedor Front-end</em>
+</p>
 
-Olá! Meu nome é Gold3nMoon e sou um entusiasta da programação apaixonado por criar experiências digitais incríveis. Tenho um foco especial em desenvolvimento front-end e estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias. Sou proficiente em:
+<p align="center">
+  Olá! Meu nome é Gold3nMoon e sou um entusiasta da programação apaixonado por criar experiências digitais incríveis. Tenho um foco especial em desenvolvimento front-end e estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias.
+</p>
 
-- HTML &#x1F4E1;
-- CSS &#x1F3A8;
-- JavaScript &#x1F4BB; 
-- Lua &#x1F314;
-- PHP &#x1F418;
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="HTML CSS JS" />
+</p>
 
-## Habilidades Técnicas
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) &#x1F4E1;
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) &#x1F3A8;
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &#x1F4BB;
-- [Lua](https://www.lua.org/docs.html) &#x1F314;
-- [PHP](https://www.php.net/docs.php) &#x1F418;
+<h2 align="center">Habilidades Técnicas</h2>
 
-## Projetos Destacados
-- [Lunnar](https://github.com/gold3nmoon/lunnar) &#x1F680;
+<p align="center">
+  <img src="https://media.giphy.com/media/fuJPZBIIqzbtM9SgF1/giphy.gif" alt="HTML" /> 
+  <img src="https://media.giphy.com/media/ZZjB2wEa9L0OVRv9ev/giphy.gif" alt="CSS" /> 
+  <img src="https://media.giphy.com/media/LoNkvlOmDy6kWAgkOR/giphy.gif" alt="JavaScript" />
+  <img src="https://media.giphy.com/media/3o7aD8EG0EKfRKkm4U/giphy.gif" alt="Lua" />
+  <img src="https://media.giphy.com/media/3o6MbboCUW07Z3vErW/giphy.gif" alt="PHP" />
+</p>
 
-## Contato
-- E-mail: gold3nmoon10@gmail.com &#x2709;
-- LinkedIn: [linkedin.com/in/gold3nmoon](https://www.linkedin.com/in/gold3nmoon) &#x1F4E1;
-- GitHub: [github.com/gold3nmoon](https://github.com/gold3nmoon) &#x1F4BB;
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://media.giphy.com/media/YqWSS4RKoRt2pu9wxl/giphy.gif" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://media.giphy.com/media/mnIVlK9fygZPysJjtq/giphy.gif" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="JavaScript" />
+  </a>
+  <a href="https://www.lua.org/docs.html">
+    <img src="https://media.giphy.com/media/XMdFemzLnhKaDnvAFZ/giphy.gif" alt="Lua" />
+  </a>
+  <a href="https://www.php.net/docs.php">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="PHP" />
+  </a>
+</p>
 
-Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um programador Júnior dedicado e entusiasmado para se juntar à sua equipe, entre em contato comigo. Vamos trabalhar juntos para criar soluções digitais incríveis!
+<h2 align="center">Projetos Destacados</h2>
+
+<p align="center">
+  <a href="https://github.com/gold3nmoon/lunnar">
+    <img src="https://media.giphy.com/media/cn3eKNNLXeO1B9w8mU/giphy.gif" alt="Lunnar" />
+  </a>
+</p>
+
+<h2 align="center">Contato</h2>
+
+<p align="center">
+  <a href="mailto:gold3nmoon10@gmail.com">
+    <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="E-mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/gold3nmoon">
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/gold3nmoon">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um programador Júnior dedicado e entusiasmado para se juntar à sua equipe, entre em contato comigo. Vamos trabalhar juntos para criar soluções digitais incríveis!
+</p>
