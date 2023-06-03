@@ -25,8 +25,8 @@ e também tenho experiência com linguagens como
 - [Lunnar]()
 ## Contato
 
-E-mail: gold3nmoon10@gmail.com
-LinkedIn: linkedin.com/in/gold3nmoon
-GitHub: github.com/gold3nmoon
+- [E-mail](gold3nmoon10@gmail.com)
+- [LinkedIn](linkedin.com/in/gold3nmoon)
+- [GitHub](github.com/gold3nmoon)
 
 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um programador Júnior dedicado e entusiasmado para se juntar à sua equipe, entre em contato comigo. Vamos trabalhar juntos para criar soluções digitais incríveis!
