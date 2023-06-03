@@ -15,7 +15,8 @@ e também tenho experiência com linguagens como
 `PHP`
 
 ## Habilidades Técnicas
-- [HTML]()
+- [HTML](link-da-documentacao) <i class="fab fa-html5"></i>
+
 - [CSS]()
 - [JavaScript]()
 - [Lua]()
