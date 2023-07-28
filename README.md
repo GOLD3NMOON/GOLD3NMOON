@@ -15,29 +15,28 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GOLD3NMOON&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-  <a href="https://discord.gg/k7cYdRYaBg" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
-
-### Main skills:
-[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/)
-[![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML](https://img.shields.io/badge/HTML-%23FF7F00?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
 ### Tools:
+
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)](https://code.visualstudio.com/)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/)
-[![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)](https://www.microsoft.com/windows/)
+
+[![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=Npm&labelColor=0D1117)](https://www.npmjs.com//)
+
+[![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)](https://nodejs.org/)
+### Technologies
+
+[![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)](https://react.com/)
+
+[![SASS](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)](https://sass-lang.com//)
+
 
 ### Other Knowledge:
 [![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)](https://www.python.org/)
+
 [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white&labelColor=0D1117)](https://www.lua.org/)
 
-### Studying in this moment:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)](https://nodejs.org/)
 
 <div align="center">
   <br>
