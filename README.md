@@ -12,7 +12,7 @@ I'm passionate about programming and exploring various languages:
 Currently studying React for mobile app development and using Godot Game Engine for game development. Available projects:
 
 - [Elysian](https://github.com/GOLD3NMOON/Elysian) 
-- [YouTube Videos Download](https://github.com/GOLD3NMOON/youtube-video-download))
+- [YouTube Videos Download](https://github.com/GOLD3NMOON/youtube-video-download)
 
 I'm also on:
 
