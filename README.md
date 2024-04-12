@@ -1,5 +1,3 @@
-![Banner](https://media.discordapp.net/attachments/1191142569845989407/1191163065232806020/Banner_do_YouTube_Games_Cinza.png?ex=65a4700d&is=6591fb0d&hm=ce19c082404fd8c0e1ce29c1de246e305b4651bdbc5bd26848b223e70eb2aac6&=&format=webp&quality=lossless&width=1025&height=293)
-
 ### Hello! 👋 I'm Jose Leonardo, 17 years old, currently residing in Brazil.
 
 
