@@ -7,11 +7,6 @@ I'm passionate about programming and exploring various technologies:
 [![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&color=171612)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 [![Postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=171612)](https://www.postgresql.org/)
 
-Currently studying Kotlin for android app development and using Godot Game Engine for game development. Available projects:
-
-- [Elysian](https://github.com/GOLD3NMOON/Elysian) 
-- [YouTube Videos Download](https://github.com/GOLD3NMOON/Youtube-video-download.git)
-
 I'm also on:
 
 - [Twitter](https://twitter.com/_gold3nmoon)
