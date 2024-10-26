@@ -9,9 +9,9 @@ I'm passionate about programming and exploring various technologies:
 
 I'm also on:
 
-- [Twitter](https://twitter.com/_gold3nmoon)
+- [x](https://x.com/_gold3nmoon)
 - [YouTube](https://www.youtube.com/@gold3nmoon)
 - [Instagram](https://instagram.com/gold3nmoon/)
-- [Discord server](https://discord.gg/nW8MwRHpQj)
+- [Discord server](https://discord.gg/YhRVU6MV7v)
 
 Anyway, I'm still an inexperienced developer, and I have a lot to learn. Thank you for reading this far!
