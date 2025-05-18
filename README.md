@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Jose Leonardo, 17 years old, currently residing in Brazil.
+### Hello! 👋 I'm Jose Leonardo, 18 years old, currently residing in Brazil.
 I'm passionate about programming and exploring various technologies:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=orange&color=171612)](https://www.python.org/)
